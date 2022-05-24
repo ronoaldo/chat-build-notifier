@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ronoaldo/chat-build-notifier/chat"
+	"github.com/ronoaldo/google-chat-notifier/chat"
 )
 
 const (
